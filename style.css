@@ -7,6 +7,7 @@ body {
   width: 100vw;
   height: 100vh;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  cursor: url(https://www.cursor.cc/cursor3d/38197.png), auto;
 }
 
 #whack-a-mole {
